@@ -1,0 +1,16 @@
+INSERT INTO CS_STUDENT (StudentID, Name, Age, Grade, PHONE, City) 
+VALUES (1, 'Ali', 20, 'A', 033344567, 'Lahore'); 
+
+INSERT INTO CS_STUDENT (StudentID, Name, Age, Grade, PHONE, City) 
+VALUES (2, 'SaNI', 22, 'B', 03356787, 'Karachi');
+
+INSERT INTO CS_STUDENT (StudentID, Name, Age, Grade, PHONE, City) 
+VALUES (3, 'Ahmed', 21, 'A', 03553588, 'Islamabad');
+
+INSERT INTO CS_STUDENT (StudentID, Name, Age, Grade, PHONE, City) 
+VALUEs (4, 'Ahsan', 23, 'C', 03344356, 'Faisalabad');
+
+INSERT INTO CS_STUDENT (StudentID, Name, Age, Grade, PHONE, City) 
+VALUES (5, 'Usman', 20, 'B', 053344345, 'Multan');
+
+ SELECT * FROM CS_STUDENT ;
